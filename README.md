@@ -41,7 +41,7 @@ Backend Setup
 
 Clone the repository:
 bash
-git clone https://github.com/Surajwalia1/Invoice-Reminder-Automation-System.git
+git clone https://github.com/Surajwalia1/Invoice-Reminder-Automation_System.git
 cd Invoice-Reminder-Automation-System
 
 Install backend dependencies:
